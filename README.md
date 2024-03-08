@@ -13,3 +13,8 @@
 ## php artisan migrate
 ## php artisan db:seed --class=ProductSeeder
 ## php artisan serve
+
+# Config
+## PHP 7.3.0
+## Composer version 2.5.5
+## "laravel/framework": "^8.75"
